@@ -7,11 +7,11 @@
 
 ## Features
 
-[x] - Menu interativo
-[x] - registros
-[x] - pesquisas por nome
-[x] - pesquisas por ano
-[x] - listar todas músicas
+- [x] Menu interativo
+- [x] registros
+- [x] pesquisas por nome
+- [x] pesquisas por ano
+- [x] listar todas músicas
 
 
 
